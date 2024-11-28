@@ -6,7 +6,7 @@ const StartGame = ({Togal}) => {
     <Container>
        <div><img src="image/Dices.png" alt="Dices" /></div>
        <div className='content'>
-        <h1>Dice Game</h1>
+        <h1>Dices Game</h1>
         <Button onClick={Togal} >Play Now</Button>
        </div>
     </Container>
